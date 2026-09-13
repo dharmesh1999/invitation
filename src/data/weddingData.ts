@@ -10,7 +10,7 @@ export const weddingData = {
   },
   venue: {
     name: 'Hariom Party Plot',
-    address: 'Gadhada road, Borad, Gujarat',
+    address: 'Gadhada road, Botad, Gujarat',
     mapUrl: 'https://maps.app.goo.gl/V91CC1sbMBGjY43n6',
   },
   contact: { label: 'Wedding concierge', phone: '+91 9924393787' },
