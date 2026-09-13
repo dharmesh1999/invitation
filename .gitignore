@@ -1,0 +1,5 @@
+node_modules
+dist
+*.tsbuildinfo
+.edge-profile
+mobile-preview.png
