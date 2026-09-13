@@ -1,7 +1,7 @@
 export type Celebration = { title: string; eyebrow: string; date: string; time: string; note: string; icon: 'henna' | 'music' | 'rings' }
 
 export const weddingData = {
-  couple: { bride: 'Krutika', groom: 'Dharmesh', hashtag: '#DharmeshwedsKrutika' },
+  couple: { bride: 'Krutika', groom: 'Dharmesh', hashtag: '#D & K' },
   weddingDate: '2027-03-02T07:00:00+05:30',
   displayDate: '02 March 2027',
   families: {
